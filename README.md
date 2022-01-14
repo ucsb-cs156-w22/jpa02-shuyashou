@@ -6,7 +6,7 @@ Repo: https://github.com/ucsb-cs156-w22/jpa02-shuyashou
 
 
 
-On Heroku: https://cs156-w22-jpa02-shuyashou.herokuapp.com
+On Heroku: https://jpa02-shuyashou.herokuapp.com
 
 
 
