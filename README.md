@@ -2,7 +2,7 @@
 
 
 
-Repo: https://ucsb-cs156-w22/jpa02-shuyashou
+Repo: https://github.com/ucsb-cs156-w22/jpa02-shuyashou
 
 
 
